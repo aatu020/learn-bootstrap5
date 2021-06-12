@@ -2,3 +2,9 @@ body {
   backdrop-filter: #f9f9f9;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+@media (min-width: 768px) {
+  .news {
+    width: 50%;
+  }
+}
